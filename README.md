@@ -1,5 +1,7 @@
 # Heart Disease Prediction
 
+> **Disclaimer: This is a student/learning project built for educational purposes only. It is NOT a medical tool and should NOT be used to diagnose, treat, or make any health decisions. If you or anyone else has concerns about heart disease or any medical condition, please consult a qualified doctor or healthcare professional. This project makes no medical claims whatsoever.**
+
 A machine learning web app that predicts whether a patient is likely to have heart disease based on medical details. Built with a Keras neural network and a Gradio web interface.
 
 ## How It Works
