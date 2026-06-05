@@ -1,0 +1,6 @@
+tensorflow>=2.13
+gradio>=4.0
+pandas
+numpy
+scikit-learn
+matplotlib
